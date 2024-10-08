@@ -1,0 +1,6 @@
+terraform/.terraform
+.idea
+*.iml
+*.log
+*.env
+*.tmp
